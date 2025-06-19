@@ -1,6 +1,4 @@
-./task1_data/xrun_sim/qaLog.txt
-./task1_data/xrun_sim/xrun.history
-./task2_test/xrun_sim/qaLog.txt
-./task2_test/xrun_sim/xrun.history
-./task1_data/xrun_csh/xcelium.d/ -r
-./task2_test/xrun_csh/xcelium.d/ -r
+task1_data/xrun_sim/*
+task2_test/xrun_sim/*
+!task1_data/xrun_sim/run.csh
+!task2_test/xrun_sim/run.csh
