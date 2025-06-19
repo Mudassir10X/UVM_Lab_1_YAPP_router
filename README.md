@@ -13,6 +13,9 @@ This repository contains the UVM-based verification environment for the YAPP rou
 1. Clone the repository.
 2. Follow the instructions in the `docs/` or project files to run simulations.
 
+## How to Run?
+This repo contains folders named xrun.csh that contains script for running through CADENCE Xcelium supposing that you have cshrc file in home for setting enviornment. if you want to use any other simulator, you can make your own run script.
+
 ## License
 
 This project is for educational and verification purposes.
