@@ -1,0 +1,6 @@
+git rm --cached ./task1_data/xrun_csh/xcelium.d/ -r
+git rm --cached ./task1_data/xrun_sim/qaLog.txt
+git rm --cached ./task1_data/xrun_sim/xrun.history
+git rm --cached ./task2_test/xrun_csh/xcelium.d/ -r
+git rm --cached ./task2_test/xrun_sim/qaLog.txt
+git rm --cached ./task2_test/xrun_sim/xrun.history
